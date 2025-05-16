@@ -3,6 +3,8 @@
 StoryTeller AI is a web-based application that uses AI to generate engaging stories from user prompts.  
 Built with **Next.js**, **TypeScript**, and **Tailwind CSS**, it provides a beautiful, responsive UI where users can write, generate, and explore stories.
 
+![App Screenshot](./images/Screenshot%202025-05-15%20220221.png)
+
 ---
 
 ## ✨ Features
